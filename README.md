@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @vromp5
-- 👀 I’m interested in computer science.
-- 🌱 I’m currently studying computer science in college and learning Java and C++ with help from my peers.
+- 👀 I’m interested in learning git, sometimes it makes me want to tear my hair out.
+- 🌱 I’m currently studying computer science in college and learning Java and C++, so that I don't starve to death.
 - 💞️ I’m looking to collaborate on anything, as I need experience.
 - 📫 How to reach me: vromp5@gmail.com
 
